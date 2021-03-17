@@ -6,6 +6,16 @@ It can be compiled with .net sdk 5 using ``dotnet build`` or ``dotnet run`` in t
 Its main use is to test the results from different noise calculations and see what kind of heightmap it can create. New noise calculations ideas are added to the available noise options so that if needed it can also be revisited later on.
 
 ---------------------------------------------------------------------------
+This is one module of a series used on Unity3D to generate island meshes. Other modules adapted for C#.net can be seen in the following links:
+> [Island Shape](https://github.com/brunorc93/islandShapeGen.net)  
+> [Biome Growth - previous](https://github.com/brunorc93/BiomeGrowth.net)  
+> [empty repo](empty repo)  
+
+> (more links will be added as soon as the modules are ported onto C#.net).  
+
+The full Unity Project can be followed [here](https://github.com/brunorc93/procgen) 
+
+------------------------------------------------------------------------------
 
 Running it opens a Window where you can choose which Noise to generate, click to generate it and when generated you can save it as a bitmap and view it in 3D. This can be seen below:
 
