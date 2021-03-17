@@ -1,4 +1,4 @@
-# Biome Growth Machine
+# Noise
 
 This is a WPF application and was coded with C# initially for Unity3D and then adapted for C#.net due to low dependency on Unity. 
 It can be compiled with .net sdk 5 using ``dotnet build`` or ``dotnet run`` in the my-app folder through the command line.
