@@ -7,9 +7,9 @@ Its main use is to test the results from different noise calculations and see wh
 
 ---------------------------------------------------------------------------
 This is one module of a series used on Unity3D to generate island meshes. Other modules adapted for C#.net can be seen in the following links:
-> [Island Shape](https://github.com/brunorc93/islandShapeGen.net)  
-> [Biome Growth - previous](https://github.com/brunorc93/BiomeGrowth.net)  
-> [empty repo](empty repo)  
+* [Island Shape](https://github.com/brunorc93/islandShapeGen.net)  
+* [Biome Growth - previous](https://github.com/brunorc93/BiomeGrowth.net)  
+* [empty repo](empty repo)  
 
 > (more links will be added as soon as the modules are ported onto C#.net).  
 
@@ -19,25 +19,25 @@ The full Unity Project can be followed [here](https://github.com/brunorc93/procg
 
 Running it opens a Window where you can choose which Noise to generate, click to generate it and when generated you can save it as a bitmap and view it in 3D. This can be seen below:
 
-> Main Window (ComboBox selects generation method):
+* Main Window (ComboBox selects generation method):
 
 <div style="display: inline-block">
   <img style="float: left;" src="examples/SS/01.png?raw=true" width="250" alt="noise example">
 </div>
 
-> Generated Noise in Window (Save and 3D buttons appear)
+* Generated Noise in Window (Save and 3D buttons appear)
 
 <div style="display: inline-block">
   <img style="float: left;" src="examples/SS/02.png?raw=true" width="250" alt="noise example">
 </div>
 
-> Main Window and 3D showcase window
+* Main Window and 3D showcase window
 
 <div style="display: inline-block">
   <img style="float: left;" src="examples/SS/03.png?raw=true" width="365" alt="noise example">
 </div>
 
-> 3D object in 3D Window can be rotated using the available sliders
+* 3D object in 3D Window can be rotated using the available sliders
 
 <div style="display: inline-block">
   <img style="float: left;" src="examples/SS/04.gif?raw=true" width="600" alt="noise example">
