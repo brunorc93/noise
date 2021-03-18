@@ -8,8 +8,8 @@ Its main use is to test the results from different noise calculations and see wh
 ---------------------------------------------------------------------------
 This is one module of a series used on Unity3D to generate island meshes. Other modules adapted for C#.net can be seen in the following links:
 * [Island Shape](https://github.com/brunorc93/islandShapeGen.net)  
-* [Biome Growth - previous](https://github.com/brunorc93/BiomeGrowth.net)  
-* [empty repo](empty repo)  
+* [Biome Growth - previous](https://github.com/brunorc93/BiomeGrowth.net)    
+* [HQ2nxNoAA - next](https://github.com/brunorc93/HQnx-noAA.net)  
 
 > (more links will be added as soon as the modules are ported onto C#.net).  
 
